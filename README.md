@@ -5,4 +5,5 @@ This project analyzes a music store's playlist database to gain insights into bu
 ## Database and Tools
 
 Postgre SQL
+
 PgAdmin4
